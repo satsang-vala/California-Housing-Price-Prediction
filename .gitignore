@@ -1,0 +1,9 @@
+# Dataset files
+housing.csv
+input.csv
+output.csv
+output_new.csv
+
+# Trained models
+model.pkl
+pipeline.pkl
